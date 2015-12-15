@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://loveqianqian.github.io/sitemap.xml 

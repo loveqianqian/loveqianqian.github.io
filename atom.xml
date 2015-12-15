@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://loveqianqian.github.io/atom.xml" rel="self"/>
+  <link href="http://loveqianqian.github.io/"/>
+  <updated>2015-12-15T23:52:22+08:00</updated>
+  <id>http://loveqianqian.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[blogSample]]></title>
+    <link href="http://loveqianqian.github.io/blog/2015/12/15/blogsample/"/>
+    <updated>2015-12-15T23:05:26+08:00</updated>
+    <id>http://loveqianqian.github.io/blog/2015/12/15/blogsample</id>
+    <content type="html"><![CDATA[<h2>这是一个octoPress生成blog的测试</h2>
+
+<h3>代码测试</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>public class ICUResourceSave {
+</span><span class='line'>  public ICUResourceSave() {
+</span><span class='line'>    }
+</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>ul</h3>
+
+<ul>
+<li>test</li>
+<li>test2
+
+<ul>
+<li>sub_test</li>
+<li>sub_test1</li>
+</ul>
+</li>
+<li>test3</li>
+</ul>
+
+
+<h3>加粗测试</h3>
+
+<p><strong>加粗</strong></p>
+
+<h3>斜体测试</h3>
+
+<p><em>斜体</em></p>
+
+<h3>链接</h3>
+
+<p><a href="http://blog.csdn.net/sinat_17358633/article/details/50241461">我的blog</a></p>
+]]></content>
+  </entry>
+  
+</feed>
