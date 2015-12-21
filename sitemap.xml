@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://loveqianqian.github.io/blog/2015/12/21/how-to-create-a-blog-by-octopress/</loc>
-    <lastmod>2015-12-21T20:17:49+08:00</lastmod>
+    <loc>http://loveqianqian.github.io/blog/2015/12/21/sharePreference/</loc>
+    <lastmod>2015-12-21T22:25:20+08:00</lastmod>
   </url>
   <url>
-    <loc>http://loveqianqian.github.io/blog/2015/12/16/hello-world/</loc>
-    <lastmod>2015-12-16T21:29:08+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://loveqianqian.github.io/blog/2015/12/15/blogsample/</loc>
-    <lastmod>2015-12-15T23:05:26+08:00</lastmod>
+    <loc>http://loveqianqian.github.io/blog/2015/12/21/howToCreateblog/</loc>
+    <lastmod>2015-12-21T22:23:07+08:00</lastmod>
   </url>
   <url>
     <loc>http://loveqianqian.github.io/404.html</loc>
@@ -34,9 +30,12 @@
     <loc>http://loveqianqian.github.io/posts/</loc>
   </url>
   <url>
-    <loc>http://loveqianqian.github.io/blog/categories/blog/</loc>
+    <loc>http://loveqianqian.github.io/blog/categories/octopress/</loc>
   </url>
   <url>
-    <loc>http://loveqianqian.github.io/blog/categories/test/</loc>
+    <loc>http://loveqianqian.github.io/blog/categories/github/</loc>
+  </url>
+  <url>
+    <loc>http://loveqianqian.github.io/blog/categories/blog/</loc>
   </url>
 </urlset>
