@@ -4,14 +4,23 @@
   <title><![CDATA[Revelation]]></title>
   <link href="http://loveqianqian.github.io/atom.xml" rel="self"/>
   <link href="http://loveqianqian.github.io/"/>
-  <updated>2015-12-16T23:52:39+08:00</updated>
+  <updated>2015-12-21T20:22:33+08:00</updated>
   <id>http://loveqianqian.github.io/</id>
   <author>
     <name><![CDATA[loveqianqian]]></name>
-    
+    <email><![CDATA[diaozhiwei2k@163.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to Create a Blog by Octopress]]></title>
+    <link href="http://loveqianqian.github.io/blog/2015/12/21/how-to-create-a-blog-by-octopress/"/>
+    <updated>2015-12-21T20:17:49+08:00</updated>
+    <id>http://loveqianqian.github.io/blog/2015/12/21/how-to-create-a-blog-by-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
